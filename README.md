@@ -20,4 +20,4 @@ This project is a 100% local, privacy-first Retrieval-Augmented Generation (RAG)
 3. Ensure you have Ollama installed and run the following commands to pull the necessary local models:
    ollama pull qwen3:4b
    ollama pull nomic-embed-text
-4.Open the Jupyter Notebook and run the cells!
+4. Open the Jupyter Notebook and run the cells!
