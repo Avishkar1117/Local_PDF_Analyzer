@@ -21,3 +21,5 @@ This project is a 100% local, privacy-first Retrieval-Augmented Generation (RAG)
    ollama pull qwen3:4b
    ollama pull nomic-embed-text
 4. Open the Jupyter Notebook and run the cells!
+## Output
+<img width="1009" height="867" alt="Screenshot 2026-03-26 222008" src="https://github.com/user-attachments/assets/01bd9467-0474-456c-89af-119ec8dabd09" />
